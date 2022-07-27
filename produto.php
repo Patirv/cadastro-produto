@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="jumbotron" style="text-align:center;background-color:#c9ebed" >
-
+ <img src="https://coisasdediva.files.wordpress.com/2018/04/produtos-baratinhos-12.jpg" alt="">
     <h1>Cadastre seu Produto</h1>
 </div>
   <form action="">
